@@ -1,0 +1,23 @@
+{
+  "name": "week10-session3-drill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelawong3/week10-session3-drill.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelawong3/week10-session3-drill/issues"
+  },
+  "homepage": "https://github.com/angelawong3/week10-session3-drill#readme",
+  "dependencies": {
+    "jest": "^28.1.1"
+  }
+}
